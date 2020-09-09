@@ -1,0 +1,21 @@
+C:\Users\Director\Downloads\ITStep\C#ps\Task 01\Home Task 10\obj\Debug\Home Task 10.csprojAssemblyReference.cache
+C:\Users\Director\Downloads\ITStep\C#ps\Task 01\Home Task 10\obj\Debug\Home Task 10.csproj.CoreCompileInputs.cache
+C:\Users\Director\Downloads\ITStep\C#ps\Task 01\Home Task 10\bin\Debug\Home Task 10.exe.config
+C:\Users\Director\Downloads\ITStep\C#ps\Task 01\Home Task 10\bin\Debug\Home Task 10.exe
+C:\Users\Director\Downloads\ITStep\C#ps\Task 01\Home Task 10\bin\Debug\Home Task 10.pdb
+C:\Users\Director\Downloads\ITStep\C#ps\Task 01\Home Task 10\obj\Debug\Home Task 10.exe
+C:\Users\Director\Downloads\ITStep\C#ps\Task 01\Home Task 10\obj\Debug\Home Task 10.pdb
+C:\Users\Director\Downloads\ITStep\C#ps\Home Task 10\Home Task 10\obj\Debug\Home Task 10.csprojAssemblyReference.cache
+C:\Users\Director\Downloads\ITStep\C#ps\Home Task 10\Home Task 10\obj\Debug\Home Task 10.csproj.CoreCompileInputs.cache
+C:\Users\Director\Downloads\ITStep\C#ps\Home Task 10\Home Task 10\obj\Debug\Home Task 10.exe
+C:\Users\Director\Downloads\ITStep\C#ps\Home Task 10\Home Task 10\obj\Debug\Home Task 10.pdb
+C:\Users\Director\Downloads\ITStep\C#ps\Home Task 10\Home Task 10\bin\Debug\Home Task 10.exe.config
+C:\Users\Director\Downloads\ITStep\C#ps\Home Task 10\Home Task 10\bin\Debug\Home Task 10.exe
+C:\Users\Director\Downloads\ITStep\C#ps\Home Task 10\Home Task 10\bin\Debug\Home Task 10.pdb
+c:\Users\acer\Downloads\C#ps\Home Task 10\Home Task 10\bin\Debug\Home Task 10.exe.config
+c:\Users\acer\Downloads\C#ps\Home Task 10\Home Task 10\bin\Debug\Home Task 10.exe
+c:\Users\acer\Downloads\C#ps\Home Task 10\Home Task 10\bin\Debug\Home Task 10.pdb
+c:\Users\acer\Downloads\C#ps\Home Task 10\Home Task 10\obj\Debug\Home Task 10.csprojAssemblyReference.cache
+c:\Users\acer\Downloads\C#ps\Home Task 10\Home Task 10\obj\Debug\Home Task 10.csproj.CoreCompileInputs.cache
+c:\Users\acer\Downloads\C#ps\Home Task 10\Home Task 10\obj\Debug\Home Task 10.exe
+c:\Users\acer\Downloads\C#ps\Home Task 10\Home Task 10\obj\Debug\Home Task 10.pdb
